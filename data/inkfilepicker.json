@@ -1,0 +1,17 @@
+{
+  'plans':
+    {
+      'start': {
+        'month': 19,
+      },
+      'grow': {
+        'month': 99,
+      },
+      'accelerate': {
+        'month': 299,
+      },
+      'scale': {
+        'month': 499,
+      }
+    }
+}
